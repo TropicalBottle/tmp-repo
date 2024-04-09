@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/NOM_UTLILISATEUR/NOM_REPO/badge.svg?branch=NOM_BRANCHE)](https://coveralls.io/github/NOM_UTILISATEUR/NOM_REPO?branch=NOM_BRANCHE)
+[![Coverage Status](https://coveralls.io/repos/github/TropicalBottle/tmp-repo/badge.svg?branch=master)](https://coveralls.io/github/TropicalBottle/tmp-repo?branch=master)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
